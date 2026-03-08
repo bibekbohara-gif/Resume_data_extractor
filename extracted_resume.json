@@ -1,0 +1,24 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "total_experience": null,
+  "skills": [],
+  "education": [
+    {
+      "degree": null,
+      "college": null,
+      "year": null
+    }
+  ],
+  "experience": [
+    {
+      "company": null,
+      "designation": null,
+      "duration": null
+    }
+  ],
+  "certifications": [],
+  "projects": []
+}
